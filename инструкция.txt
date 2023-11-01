@@ -1,0 +1,5 @@
+git add A / -A
+git commit -m 'Привет '
+git push
+
+git reset --hard
